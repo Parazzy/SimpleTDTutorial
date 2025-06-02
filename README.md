@@ -3,3 +3,4 @@
   - Huge thanks to the assets provider: www.kenney.nl
   - The game isn't meant to be completed, rather somewhere I can go back to check scripts and files if I need to
   - UnityPlayer.dll compacted into .zip to fit
+  - To run the game /Scripts is optional and UnityPlayer must be decompiled
